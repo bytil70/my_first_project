@@ -1,0 +1,8 @@
+I create an account in github.com
+Then:
+create a depocitory my_first_project
+create some files in
+create index.html to ref to all the file in this repocitory
+To see the content in the files:
+open index.html by live server
+click on the file name then I can see the content
